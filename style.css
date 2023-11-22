@@ -1,13 +1,15 @@
-p {
-    text-align: center;
-}
-haed{
+body{
     background: #4B0082;
 }
 
 h1{
     text-align: center;
 }
+
+p {
+    text-align: center;
+}
+
 em strong{
     color:aqua
 }
